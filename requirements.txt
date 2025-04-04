@@ -1,9 +1,9 @@
-streamlit
-numpy
-tensorflow
+streamlit as st
+numpy as np
+tensorflow as tf
 keras
-scikit-learn
-pandas
+scikit-learn as sklearn
+pandas as pd
 pickle
 
 
