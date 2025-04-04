@@ -1,4 +1,12 @@
-
+import streamlit 
+import numpy
+import tensorflow 
+from tensorflow import keras
+import sklearn
+from sklearn.preprocessing import LabelEncoder,OneHotEncoder,StandardScaler
+from tensorflow.keras.models import load_model
+import pickle
+import pandas 
 
 
 
