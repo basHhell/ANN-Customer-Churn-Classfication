@@ -1,12 +1,12 @@
-import streamlit 
-import numpy 
-import tensorflow==2.10.0 
-from tensorflow import keras
-import sklearn
-from sklearn.preprocessing import LabelEncoder,OneHotEncoder,StandardScaler
-from tensorflow.keras.models import load_model
-import pickle
-import pandas 
+streamlit==1.10.0
+tensorflow==2.10.0
+numpy==1.21.0
+pandas==1.4.2
+scikit-learn==1.0.2
+sklearn.preprocessing
+pickle
+
+
 
 
 
