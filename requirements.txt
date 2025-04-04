@@ -1,9 +1,10 @@
-streamlit==1.14.0
-numpy==1.23.5
+streamlit
+numpy
 tensorflow
-keras==2.11.0
-scikit-learn==1.0.2
-pandas==1.5.0
+keras
+scikit-learn
+pandas
+pickle
 
 
 
