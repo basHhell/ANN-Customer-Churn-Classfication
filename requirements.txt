@@ -2,7 +2,7 @@ streamlit
 numpy 
 tensorflow 
 keras
-scikit-learn as sklearn
+scikit-learn 
 pandas 
 pickle
 
