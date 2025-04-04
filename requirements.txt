@@ -1,12 +1,9 @@
-streamlit as st
- numpy as np
-tensorflow as tf
-keras
-sklearn
-sklearn.preprocessing
-tensorflow.keras.models
-pickle
-import pandas 
+streamlit==1.14.0
+numpy==1.24.0
+tensorflow==2.11.0
+keras==2.11.0
+scikit-learn==1.1.3
+pandas==1.5.1
 
 
 
