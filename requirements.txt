@@ -1,9 +1,12 @@
 import streamlit as st
 import numpy as np
-import tensorflow as tf
+import tensorflow==2.10.0 as tf
 from tensorflow import keras
 import sklearn
 from sklearn.preprocessing import LabelEncoder,OneHotEncoder,StandardScaler
 from tensorflow.keras.models import load_model
 import pickle
 import pandas as pd
+
+
+
